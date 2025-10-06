@@ -2,6 +2,7 @@ streamlit
 crewai-tools
 crewai
 google-search-results
+serpapi
 jupyter
 git+https://github.com/openai/swarm.git
 langchain-community
@@ -11,3 +12,5 @@ langgraph
 datasets
 matplotlib
 openai-agents
+grandalf
+google-search-results
